@@ -46,18 +46,19 @@ Analizar las características de los medicamentos más caros y mas económicos p
 
 -Creative Commons Attribution 4.0
 
-## Conclusión del Análisis
+
+## **Conclusión del Análisis**
 
 El análisis de los precios de medicamentos para afiliados de PAMI ha permitido obtener las siguientes conclusiones en relación con los objetivos planteados:
 
 ### 1. y 4. Principios activos de los 10 medicamentos más caros y más baratos
 
 - **Medicamentos más caros:** Los principios activos de los 10 medicamentos con mayor COPAGO incluyen una variedad de tratamientos para enfermedades crónicas y complejas, lo que sugiere que los costos elevados pueden estar asociados a la especialización y novedad de los tratamientos.
-- **Medicamentos más baratos:** Los principios activos de los 10 medicamentos con menor COPAGO, incluyendo aquellos con COPAGO cero, suelen corresponder a medicamentos genéricos, de uso común o aquellos con cobertura del 100% por políticas específicas de PAMI.
+- **Medicamentos más baratos:** Los principios activos de los 10 medicamentos con menor COPAGO, incluyendo aquellos con COPAGO cero, suelen corresponder a medicamentos genéricos, de uso común o aquellos con cobertura del 100% (en su mayoría tratamiento convencional de la diabetes)por políticas específicas de PAMI.
 
 ### 2. y 5. Porcentaje de cobertura al paciente de los 10 medicamentos más caros y más baratos
 
-- **Medicamentos más caros:** A pesar de su alto costo, el porcentaje de cobertura para los medicamentos más caros varía, oscilando entre el 40% y el 80%. Esto indica que, incluso para tratamientos costosos, PAMI ofrece una cobertura significativa, aunque el COPAGO resultante para el paciente sigue siendo elevado.
+- **Medicamentos más caros:** A pesar de su alto costo, el porcentaje de cobertura para los medicamentos más caros varía, oscilando entre el 40% y el 80% (entre estos rangos estan los medicamentos para tratamientos convencionales de enfermedades crónicas, como la hipertensión). Esto indica que, incluso para tratamientos costosos, PAMI ofrece una cobertura significativa, aunque el COPAGO resultante para el paciente sigue siendo elevado.
 - **Medicamentos más baratos:** Muchos de los medicamentos con COPAGO más bajo (incluyendo 0) tienen coberturas del 100%, lo que los hace completamente accesibles para el afiliado. Esto es consistente con la provisión de medicamentos esenciales o tratamientos prioritarios.
 
 ### 3. y 6. Laboratorios elaboradores de los 10 medicamentos más caros y más baratos
@@ -74,6 +75,8 @@ El análisis de los precios de medicamentos para afiliados de PAMI ha permitido 
 - La diferencia porcentual del COPAGO entre el laboratorio más caro y el más barato es notablemente alta, indicando una gran variabilidad en los costos dependiendo del laboratorio y el tipo de medicamento.
 - Existe una relación inversa esperada entre la cobertura y el COPAGO, donde a mayor cobertura de PAMI, menor es el COPAGO para el afiliado, aunque la distribución muestra que incluso con altas coberturas, algunos medicamentos pueden tener un COPAGO considerable debido a su precio base.
 
-En resumen, PAMI ofrece un amplio rango de coberturas, desde el 100% para muchos medicamentos básicos y accesorios hasta coberturas parciales para tratamientos más especializados y costosos. Los medicamentos de alto costo están asociados a principios activos específicos y a laboratorios con productos de alto valor, mientras que los más económicos a menudo tienen cobertura completa o casi completa.
+En resumen, PAMI ofrece un amplio rango de coberturas, desde el 100% para muchos medicamentos y accesorios destinados al tratamiento convencional de la diabetes hasta coberturas parciales que van del 40 al 80% para tratamientos más especializados y costosos. Los medicamentos de alto costo están asociados a principios activos específicos y de reciente desarrollo. Es el caso de la semaglutida, también utilizado para la diabetes y obesidad. 
+
+
 
 
