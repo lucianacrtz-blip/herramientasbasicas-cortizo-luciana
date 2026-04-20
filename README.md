@@ -1,3 +1,9 @@
+# **Autor**: Luciana V Cortizo
+
+# **Curso**: Herramientas Básicas para el Análisis de Datos
+
+# **Cohorte**: 2026
+
 # Título y descripción general
 Análisis de los precios vigentes de medicamentos para los afiliados de Pami. Características de los medicamentos más caros y más económicos.
 
